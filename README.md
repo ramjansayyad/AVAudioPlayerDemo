@@ -1,4 +1,4 @@
-# AVAudioPlayerDemo
+# AVAudioPlayer
 Play, Pause, Stop mp3 music file from app bundle 
 
 Step 1 :
