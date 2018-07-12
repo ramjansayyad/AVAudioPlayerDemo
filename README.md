@@ -1,6 +1,8 @@
 # AVAudioPlayer
 Play, Pause, Stop mp3 music file from app bundle. Also track progress (played time / out of time) of music file. 
 
+![12345](https://user-images.githubusercontent.com/5029849/42630120-5010bd42-85f3-11e8-8735-f8a1786f967d.png)
+
 Step 1 :
 Fetch music file from bundle :
         let url = Bundle.main.url(forResource: "ok Jaanu", withExtension: "mp3")!
