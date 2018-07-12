@@ -1,5 +1,5 @@
 # AVAudioPlayer
-Play, Pause, Stop mp3 music file from app bundle 
+Play, Pause, Stop mp3 music file from app bundle. Also track progress (played time / out of time) of music file. 
 
 Step 1 :
 Fetch music file from bundle :
