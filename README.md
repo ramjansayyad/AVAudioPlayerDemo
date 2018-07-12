@@ -44,7 +44,8 @@ Pause music using -
 player.pause()
 ```
 ### Step 5: 
-To update progress bar & song played & remaining timing use below method. Invoke this method by using timer.
+To update progress, song played timing & remaining timing use below method. 
+Invoke this method by using timer.
 ```
 func updateTime(_ sender: Any) { 
 
