@@ -31,12 +31,18 @@ do {
 ```
 ### Step 3:
 Bellow line of code will trigger the music file to play
+```
         player.play()
-
+```
 ### Step 4: 
-Stop music using -             player.stop()
-Pause music using -           player.pause()
-
+Stop music using -
+```
+player.stop()
+```
+Pause music using -    
+```
+player.pause()
+```
 ### Step 5: 
 To update progress bar & song played & remaining timing use below method. Invoke this method by using timer.
 ```
